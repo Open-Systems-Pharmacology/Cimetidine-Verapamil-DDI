@@ -2314,6 +2314,13 @@
           "Value": 454.611,
           "Unit": "g/mol",
           "ValueOrigin": {}
+        },
+        {
+          "Name": "Use bile salt micellization",
+          "Value": 0.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
         }
       ]
     },
@@ -2563,6 +2570,13 @@
           "Value": 454.611,
           "Unit": "g/mol",
           "ValueOrigin": {}
+        },
+        {
+          "Name": "Use bile salt micellization",
+          "Value": 0.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
         }
       ]
     },
@@ -2782,6 +2796,13 @@
           "Value": 440.584,
           "Unit": "g/mol",
           "ValueOrigin": {}
+        },
+        {
+          "Name": "Use bile salt micellization",
+          "Value": 0.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
         }
       ]
     },
@@ -3001,6 +3022,13 @@
           "Value": 440.584,
           "Unit": "g/mol",
           "ValueOrigin": {}
+        },
+        {
+          "Name": "Use bile salt micellization",
+          "Value": 0.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
         }
       ]
     },
@@ -3106,6 +3134,13 @@
           "Value": 454.611,
           "Unit": "g/mol",
           "ValueOrigin": {}
+        },
+        {
+          "Name": "Use bile salt micellization",
+          "Value": 0.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
         }
       ]
     },
@@ -3211,6 +3246,13 @@
           "Value": 440.584,
           "Unit": "g/mol",
           "ValueOrigin": {}
+        },
+        {
+          "Name": "Use bile salt micellization",
+          "Value": 0.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
         }
       ]
     },
@@ -3546,6 +3588,13 @@
           "ValueOrigin": {
             "Source": "Database",
             "Description": "Drugbank"
+          }
+        },
+        {
+          "Name": "Use bile salt micellization",
+          "Value": 0.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
           }
         }
       ]
